@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rastreamento de consumo e desperdicio de energia</title>
+</head>
+
+<body>
+    <header>
+        <h1>Rastreamento de consumo e desperdicio de energia</h1>
+    </header>
+    <main>
+        <section>
+            <form action="http://localhost:3000/registros" method="post">
+                <input type="text" name="item" placeholder="Nome do equipamento" required>
+                <input type="text" name="local" placeholder="Local do equipamento" required>
+                <input type="number" name="consumo_kwh" placeholder="Consumo do equipamento" required>
+                <input type="date" name="mes_referencia" required>
+                <input type="text" name="status" placeholder="Status do equipamento" required>
+                <input type="submit" value="Enviar">
+            </form>
+        </section>
+    <footer>
+        <h2>by giovanaremorini-dotcom</h2>
+    </footer>
+</body>
+
+</html>

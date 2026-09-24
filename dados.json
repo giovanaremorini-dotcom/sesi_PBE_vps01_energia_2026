@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "local": "Laboratório 1",
+        "equipamento": "Ar-condicionado",
+        "consumo_kwh": 185.4,
+        "mes_referencia": "2026-04",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 2,
+        "local": "Laboratório 2",
+        "equipamento": "Computadores",
+        "consumo_kwh": 142.8,
+        "mes_referencia": "2026-09",
+        "status": "Consumo normal"
+    },
+    {
+        "id": 3,
+        "local": "Laboratório 3",
+        "equipamento": "Geladeira",
+        "consumo_kwh": 98.6,
+        "mes_referencia": "2026-09",
+        "status": "Consumo normal"
+    },
+    {
+        "id": 4,
+        "local": "Laboratório 4",
+        "equipamento": "Projetor",
+        "consumo_kwh": 72.3,
+        "mes_referencia": "2026-09",
+        "status": "Consumo normal"
+    },
+    {
+        "id": 5,
+        "local": "Laboratório 5",
+        "equipamento": "Cafeteira",
+        "consumo_kwh": 115.7,
+        "mes_referencia": "2026-09",
+        "status": "Consumo elevado"
+    }
+]
