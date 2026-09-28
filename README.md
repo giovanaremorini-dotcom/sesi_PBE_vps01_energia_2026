@@ -55,6 +55,6 @@ npm run dev
 ---
 
 ## Ciente
-- ![Formulário](.Formulário.png)
+- ![Formulário](./Formulário.png)
 - Resposta:
 - ![Formulário](./prints/envio.png)
